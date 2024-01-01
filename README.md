@@ -1,2 +1,1 @@
-# Warehouse---First-project
-Project is a simple warehouse management system in Python, working on example of Beer Warehouse. Product in magazine ale located randomly
+Paragon z warzywniaka
